@@ -2,9 +2,9 @@
 ## Блок 2. Анализ данных
 
 ### Тематический план
-1. [NumPy](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/1_NumPy.ipynb)
-2. [Введение в Pandas](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/2_pandas.ipynb)
-3. [Операции с датафреймами. Переменные и шкалы](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/3_pandas.ipynb)
+1. NumPy [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/1_NumPy.ipynb)
+2. Введение в Pandas [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/2_pandas.ipynb), [запись 1](https://youtube.com/live/1MvAEw1QpaU?feature=share)
+3. Операции с датафреймами. Переменные и шкалы [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/3_pandas.ipynb)
 4. Поиск данных
 5. Частотный анализ и визуализация
 6. Выборочная и генеральная совокупность
@@ -15,3 +15,6 @@
 11. Линейная регрессия
 12. Защита финальный проектов
 
+### Литература
+- Folgert Karsdorp, Mike Kestemont, Allen Riddell. [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html)
+- William J.B. Mattingly. [Introduction to Python for Humanists](http://python-textbook.pythonhumanities.com/intro.html)
