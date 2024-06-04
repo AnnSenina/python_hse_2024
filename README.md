@@ -2,9 +2,9 @@
 ## Блок 2. Анализ данных
 
 ### Тематический план
-1. NumPy
-2. Введение в Pandas
-3. Операции с датафреймами. Переменные и шкалы
+1. [NumPy](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/1_NumPy.ipynb)
+2. [Введение в Pandas](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/2_pandas.ipynb)
+3. [Операции с датафреймами. Переменные и шкалы](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/3_pandas.ipynb)
 4. Поиск данных
 5. Частотный анализ и визуализация
 6. Выборочная и генеральная совокупность
