@@ -9,7 +9,7 @@
 5. Частотный анализ [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/4_%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D1%8B%2C_pandas.ipynb) и визуализация [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/5_%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0.ipynb)
 6. Выборочная и генеральная совокупность [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/6_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B8.ipynb), [запись 3](https://youtube.com/live/vag1DmL6I7o?feature=share)
 7. Описательная статистика [тетрадка](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/7_%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8.ipynb)
-8. Распределение случайных величин [домашнее задание](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.ipynb) *(по желанию)*
+8. Распределение случайных величин [домашнее задание](https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.ipynb) *(по желанию)*, [запись 4](https://youtube.com/live/_8tEPjlhdRI?feature=share)
 9. Корреляция
 10. Визуализация данных
 11. Линейная регрессия
