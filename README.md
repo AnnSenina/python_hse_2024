@@ -35,11 +35,14 @@
 </td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.ipynb'>домашнее задание</a> + <a href=''>решение</a></p>
 </td>
 </tr><tr><td><p>Корреляция</p>
-</td><td><p><a href=''>тетрадка</a></p>
-</td><td rowspan="2"><p>запись</a></p>
+</td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/8_%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.ipynb'>тетрадка</a></p>
+</td><td rowspan="3"><p>запись</a></p>
 </td>
 </tr><tr><td><p>Визуализация данных</p>
-</td><td><p><a href=''>тетрадка</a></p>
+</td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/9_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_seaborn.ipynb'>тетрадка</a></p>
+</td>
+</tr><tr><td><p>Тестирование гипотез</p>
+</td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/10_%D0%A2%D0%B5%D1%81%D1%82%D1%8B.ipynb'>тетрадка</a></p>
 </td>
 </tr><tr><td><p>Линейная регрессия</p>
 </td><td><p>тетрадка</p>
