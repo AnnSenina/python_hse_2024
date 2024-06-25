@@ -58,3 +58,7 @@
 ### Литература
 - Folgert Karsdorp, Mike Kestemont, Allen Riddell. [Humanities Data Analysis: Case Studies with Python](https://www.humanitiesdataanalysis.org/index.html)
 - William J.B. Mattingly. [Introduction to Python for Humanists](http://python-textbook.pythonhumanities.com/intro.html)
+- [Прикладной анализ данных в социальных науках](https://education.yandex.ru/handbook/data-analysis) (Яндекс, ЕУ СПб)
+- [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) (ШАД)
+- В. Аббакумов. [Онлайн-курс по Python (записи)](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/)
+
