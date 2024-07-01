@@ -51,7 +51,7 @@
 </td>
 <td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/11_linreg.ipynb'>тетрадка</a></p>
 </td>
-<td rowspan="3"><p><a>запись</a></p>
+<td rowspan="3"><p><a href="https://www.youtube.com/live/no-9txFU048?si=8HK9gpYNZ57gmcZm">запись 6</a></p>
 </td>
 </tr>
 <tr>
