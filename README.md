@@ -49,7 +49,7 @@
 <tr>
 <td><p>Линейная регрессия</p>
 </td>
-<td><p><a href=''>тетрадка</a></p>
+<td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/11_linreg.ipynb'>тетрадка</a></p>
 </td>
 <td rowspan="3"><p><a>запись</a></p>
 </td>
@@ -57,13 +57,13 @@
 <tr>
 <td><p>Модификации линейной регрессии (регуляризация, полиномиальная регрессия)</p>
 </td>
-<td><p><a href=''>тетрадка</a></p>
+<td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/12_%D0%9C%D0%BE%D0%B4%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8_linreg.ipynb'>тетрадка</a></p>
 </td>
 </tr>
 <tr>
 <td><p>Логистическая регрессия, кросс-валидация</p>
 </td>
-<td><p><a href=''>тетрадка</a></p>
+<td><p><a href='notebooks/13_logisticreg, validation.ipynb'>тетрадка</a></p>
 </td>
 </tr>
 <tr><td><p>Защита финальных проектов</p>
