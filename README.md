@@ -79,4 +79,5 @@
 - [Прикладной анализ данных в социальных науках](https://education.yandex.ru/handbook/data-analysis) (Яндекс, ЕУ СПб)
 - [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml) (ШАД)
 - В. Аббакумов. [Онлайн-курс по Python (записи)](https://compscicenter.ru/courses/data-mining-python/2018-spring/classes/)
+- [Awesome список публикаций и выступлений](https://github.com/nevmenandr/awesome-dh-hse) по DH преподавателей магистратуры НИУ ВШЭ
 
