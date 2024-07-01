@@ -15,4 +15,4 @@
 3. Разные
    * [МГУ Динамика экономического и социального развития России](https://hist.msu.ru/Dynamics/)
    * Датасеты [Пушкинского Дома](http://pushkinskijdom.ru/)
-   * Датасеты сообщества [DH Cloud](https://dhcloud.org/category/datasety/)
+   * Датасеты сообщества [DH CLOUD](https://dhcloud.org/category/datasety/)
