@@ -66,7 +66,7 @@
 <td><p><a href='notebooks/13_logisticreg, validation.ipynb'>тетрадка</a></p>
 </td>
 </tr>
-<tr><td><p>Защита финальных проектов</p>
+<tr><td><p>Финальный проект</p>
 </td><td><p><a href="https://github.com/AnnSenina/python_hse_2024/blob/main/Project.md">задание на проект</a></p>
 </td><td><p>консультация</p>
 </td>
