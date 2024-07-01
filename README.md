@@ -37,7 +37,7 @@
 </tr>
 <tr><td><p>Корреляция</p>
 </td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/8_%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D0%B8%D0%B8.ipynb'>тетрадка</a></p>
-</td><td rowspan="3"><p><a href="https://youtube.com/live/37_0bSkgpIw?feature=share">запись</a></p>
+</td><td rowspan="3"><p><a href="https://youtube.com/live/37_0bSkgpIw?feature=share">запись 5</a></p>
 </td>
 </tr><tr><td><p>Визуализация данных</p>
 </td><td><p><a href='https://github.com/AnnSenina/python_hse_2024/blob/main/notebooks/9_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_seaborn.ipynb'>тетрадка</a></p>
